@@ -1,4 +1,4 @@
-'use strict';
+
  
 angular.module('myApp').factory('UserService', ['$http', '$q', function($http, $q){
  
